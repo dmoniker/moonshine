@@ -1,0 +1,166 @@
+{
+  "parent": {
+    "welcomeSeen": false,
+    "weeks": {
+      "1": {
+        "completed": false,
+        "completedAt": null,
+        "tasks": {
+          "w1-t1": false,
+          "w1-t2": false,
+          "w1-t3": false,
+          "w1-t4": false
+        }
+      },
+      "2": {
+        "completed": false,
+        "completedAt": null,
+        "tasks": {
+          "w2-t1": false,
+          "w2-t2": false,
+          "w2-t3": false,
+          "w2-t4": false
+        }
+      },
+      "3": {
+        "completed": false,
+        "completedAt": null,
+        "tasks": {
+          "w3-t1": false,
+          "w3-t2": false,
+          "w3-t3": false
+        }
+      },
+      "4": {
+        "completed": false,
+        "completedAt": null,
+        "tasks": {
+          "w4-t1": false,
+          "w4-t2": false,
+          "w4-t3": false
+        }
+      },
+      "5": {
+        "completed": false,
+        "completedAt": null,
+        "tasks": {
+          "w5-t1": false,
+          "w5-t2": false,
+          "w5-t3": false
+        }
+      },
+      "6": {
+        "completed": false,
+        "completedAt": null,
+        "tasks": {
+          "w6-t1": false,
+          "w6-t2": false,
+          "w6-t3": false
+        }
+      },
+      "7": {
+        "completed": false,
+        "completedAt": null,
+        "tasks": {
+          "w7-t1": false,
+          "w7-t2": false,
+          "w7-t3": false
+        }
+      },
+      "8": {
+        "completed": false,
+        "completedAt": null,
+        "tasks": {
+          "w8-t1": false,
+          "w8-t2": false,
+          "w8-t3": false,
+          "w8-t4": false
+        }
+      }
+    },
+    "journal": [],
+    "modelUrl": ""
+  },
+  "son": {
+    "welcomeSeen": false,
+    "weeks": {
+      "1": {
+        "completed": false,
+        "completedAt": null,
+        "tasks": {
+          "w1-t1": false,
+          "w1-t2": false,
+          "w1-t3": false,
+          "w1-t4": false
+        }
+      },
+      "2": {
+        "completed": false,
+        "completedAt": null,
+        "tasks": {
+          "w2-t1": false,
+          "w2-t2": false,
+          "w2-t3": false,
+          "w2-t4": false
+        }
+      },
+      "3": {
+        "completed": false,
+        "completedAt": null,
+        "tasks": {
+          "w3-t1": false,
+          "w3-t2": false,
+          "w3-t3": false
+        }
+      },
+      "4": {
+        "completed": false,
+        "completedAt": null,
+        "tasks": {
+          "w4-t1": false,
+          "w4-t2": false,
+          "w4-t3": false
+        }
+      },
+      "5": {
+        "completed": false,
+        "completedAt": null,
+        "tasks": {
+          "w5-t1": false,
+          "w5-t2": false,
+          "w5-t3": false
+        }
+      },
+      "6": {
+        "completed": false,
+        "completedAt": null,
+        "tasks": {
+          "w6-t1": false,
+          "w6-t2": false,
+          "w6-t3": false
+        }
+      },
+      "7": {
+        "completed": false,
+        "completedAt": null,
+        "tasks": {
+          "w7-t1": false,
+          "w7-t2": false,
+          "w7-t3": false
+        }
+      },
+      "8": {
+        "completed": false,
+        "completedAt": null,
+        "tasks": {
+          "w8-t1": false,
+          "w8-t2": false,
+          "w8-t3": false,
+          "w8-t4": false
+        }
+      }
+    },
+    "journal": [],
+    "modelUrl": ""
+  }
+}

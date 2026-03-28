@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  @apply scroll-smooth;
+}
+
+body {
+  @apply font-body bg-void text-slate-100 min-h-screen;
+}
+
+/* Focus rings for keyboard users */
+:focus-visible {
+  @apply outline outline-2 outline-offset-2 outline-accent;
+}
+
+.glass-panel {
+  @apply bg-panel/90 backdrop-blur-md border border-white/10 rounded-2xl shadow-glow;
+}
